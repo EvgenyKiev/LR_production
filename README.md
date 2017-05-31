@@ -1,2 +1,2 @@
 # LR_production
-LR_production admin panel with MongoDB conect
+LR_production admin panel with MongoDB connect
